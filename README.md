@@ -20,9 +20,7 @@ Writing helps me learn. Sharing helps others learn.
 Hashnode + GitHub = Proof of work + Personal growth.
 
 ## 🔗 Read it on Hashnode:
-[ Full blog on Hashnode](https://shellsc0ut.hashnode.dev)
-
----
+url=(https://starting-shellscout-journey.hashnode.dev/how-i-started-my-cybersecurity-journey-as-a-student-shellsc0uts-first-shell)
 
  Stay tuned for more weekly updates!  
 Let’s hack, learn, and grow together 
